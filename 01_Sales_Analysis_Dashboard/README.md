@@ -28,4 +28,4 @@ Source: Codebasics (YouTube Project)
 
 ## Author
 Aakula Srinivas  
-[LinkedIn Profile](https://www.linkedin.com/in/YOUR-USERNAME)  
+[LinkedIn Profile](www.linkedin.com/in/srinivasaakula)  
